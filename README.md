@@ -138,14 +138,3 @@ python main.py
 * Better AI training system
 * Game analytics dashboard
 
----
-
-## 👩‍💻 Author
-
-**Mythri Krishna**
-CSE – Artificial Intelligence & Machine Learning
-VidyaVardhaka College of Engineering
-
----
-
-⭐ If you like this project, consider giving it a star!
